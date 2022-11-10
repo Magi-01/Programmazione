@@ -1,4 +1,4 @@
-run = "\"/bin/bash\""
+run = "/bin/bash"
 
 [nix]
 channel = "stable-21_11"
